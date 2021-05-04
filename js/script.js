@@ -6,6 +6,7 @@ const app = new Vue ({
   data:{
     messaggio: "Quanto è bello Vue e speriamo non faccia scherzi!",
     miaClasse: 'green',
+    img: "vue.png",
   },
   //le funzioni le mettiamo dentro methods
 
